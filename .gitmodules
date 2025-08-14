@@ -1,0 +1,3 @@
+[submodule "lib/getopt.c3l"]
+	path = lib/getopt.c3l
+	url = https://github.com/NotsoanoNimus/getopt.c3l
