@@ -1,5 +1,5 @@
 # Hookshot - An Anonymous-only FTP Scanner 🔎➡️💾🥰
-<img width="360" height="312" alt="image" src="https://github.com/user-attachments/assets/cdcb856b-1f83-4aaf-bb93-82dc07c710b6" />
+<img width="180" height="156" alt="The Hookshot we all know and love" src="https://github.com/user-attachments/assets/cdcb856b-1f83-4aaf-bb93-82dc07c710b6" />
 
 Let freedom ring! 🔔 Scan and copy anonymous FTP server data to your local disk 💿, and leave a note 📓 behind if you're feeling nice. 🤗
 
